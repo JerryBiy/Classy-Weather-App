@@ -1,6 +1,8 @@
 # Classy-Weather-App
  weather app applying knowledge of async javascript and using AccuWeather API for weather info.
 
+ https://jerrybiy.github.io/Classy-Weather-App/
+
  Functions:
  1. Shows the weather information of the city user enters.
  
